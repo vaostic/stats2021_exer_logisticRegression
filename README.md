@@ -1,6 +1,7 @@
 # Logistic Regression Exercise
 
 You can see a video demonstration of this assignment here: https://www.youtube.com/watch?v=u52U7NJn6k4
+
 Use the answer sheet in the old folder. I have not created an updated answer sheet for this assignment yet.
 
 ## Summary of steps to complete
